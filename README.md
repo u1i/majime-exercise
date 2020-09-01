@@ -7,3 +7,5 @@ What does [majime](https://github.com/u1i/majime) do?
 * majime runs test cases on API endpoints
 * test cases are defined in YAML files
 * majime can generate test cases from Swagger specs
+
+![](./resources/majtest2.png)
