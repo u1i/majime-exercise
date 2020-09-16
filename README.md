@@ -36,6 +36,14 @@ We're using a Docker image that has everything in it for your convenience:
 
 ## 3 – Experiment with majime
 
+#### Initialize your Work Space
+
+Type this into the terminal:
+
+`umask 113`
+
+This will allow you to edit files in the GUI that have been created from within the terminal. Technically speaking, the terminal environment and the GUI run as two different users, and this command helps fix access rights.
+
 #### Get info on the usage
 
 `majime -h`
